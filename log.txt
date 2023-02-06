@@ -1,3 +1,15 @@
+commit fc91111f5cb1e080826ba7ba76304555a951fb45
+Author: гр.В1441 Бурцева О.И <olgaburceva2008@yandex.ru>
+Date:   Mon Feb 6 04:24:00 2023 +0300
+
+    changes for README.md
+
+commit 2ec74f20f26cf60bf1e354ee8f8c81d8671b728e
+Author: гр.В1441 Бурцева О.И <olgaburceva2008@yandex.ru>
+Date:   Mon Feb 6 04:22:36 2023 +0300
+
+    change some name for pic
+
 commit 529c04420b186b22315dc403b405b2a930039f68
 Author: гр.В1441 Бурцева О.И <olgaburceva2008@yandex.ru>
 Date:   Mon Feb 6 04:12:19 2023 +0300
