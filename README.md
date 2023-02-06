@@ -2,12 +2,18 @@
 Лабораторная работа №6
 
 Снимок экрана консоли с откатом коммита и логом команд:
-![Скриншот 1: git log](/скриншоты/gitlog1.jpg?raw=true)
+![Скриншот 1: git log](/screen/gitlog1.jpg?raw=true)
 
 Снимок используемой сторонней программы:
-![Скриншот 2: Notepad++](/скриншоты/note.jpg?raw=true)
+![Скриншот 2: Notepad++](/screen/note.jpg?raw=true)
 
 Лог команд создан при помощи след. команд: git --no-pager log > log.txt
+
+commit 529c04420b186b22315dc403b405b2a930039f68
+Author: гр.В1441 Бурцева О.И <olgaburceva2008@yandex.ru>
+Date:   Mon Feb 6 04:12:19 2023 +0300
+
+    last edit
 
 commit 396771408123d0bede356e283ca7a43ad2bf762e
 Author: гр.В1441 Бурцева О.И <olgaburceva2008@yandex.ru>
@@ -50,5 +56,6 @@ Author: Kurtyanik <45309985+Kurtyanik@users.noreply.github.com>
 Date:   Sat Nov 21 19:58:20 2020 +0300
 
     Initial commit
+
 
 
